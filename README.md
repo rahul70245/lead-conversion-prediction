@@ -10,7 +10,7 @@ Predict whether a lead converts into a customer.
 
 ## Roadmap
 
-- [ ] Schema Study
+- [ ] Schema Study ---- completed
 - [ ] Dataset Creation
 - [ ] EDA
 - [ ] Feature Engineering
