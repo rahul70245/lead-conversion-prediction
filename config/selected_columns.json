@@ -1,0 +1,30 @@
+{
+    "calls": [
+        "call_id",
+        "pii_id",
+        "call_date",
+        "duration",
+        "outcome",
+        "call_type",
+        "agent_id"
+    ],
+    "contacts": [
+        "contact_id",
+        "pii_id",
+        "profile"
+    ],
+    "leads": [
+        "lead_id",
+        "pii_id",
+        "owner",
+        "lead_source",
+        "assigned_date"
+    ],
+    "orders": [
+        "order_id",
+        "pii_id",
+        "agent_id",
+        "order_date",
+        "order_status"
+    ]
+}
