@@ -5,8 +5,7 @@
         "call_date",
         "duration",
         "outcome",
-        "call_type",
-        "agent_id"
+        "call_type"
     ],
     "contacts": [
         "contact_id",
@@ -18,13 +17,16 @@
         "pii_id",
         "owner",
         "lead_source",
-        "assigned_date"
+        "assigned_date",
+        "follow_up_date"
     ],
     "orders": [
         "order_id",
+        "pii_id"
+    ],
+    "pii": [
         "pii_id",
-        "agent_id",
-        "order_date",
-        "order_status"
+        "country",
+        "state"
     ]
 }

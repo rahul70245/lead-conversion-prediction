@@ -3,6 +3,7 @@
         "calls",
         "contacts",
         "leads",
-        "orders"
+        "orders",
+        "pii"
     ]
 }
