@@ -10,13 +10,12 @@ Predict whether a lead converts into a customer.
 
 ## Roadmap
 
-- [ ] Schema Study ---- completed
-- [ ] Dataset Creation
-- [ ] EDA
-- [ ] Feature Engineering
-- [ ] Modeling
-- [ ] Hyperparameter Tuning
-- [ ] Explainability
-- [ ] API
-- [ ] Docker
-- [ ] Deployment
+- Schema Study ---- completed
+- Dataset Creation ---- completed
+- EDA ---- completed ----- https://rahul70245.github.io/lead-conversion-prediction/eda.html
+- Feature Engineering
+- Modeling
+- Hyperparameter Tuning
+- Explainability
+- API
+- Deployment

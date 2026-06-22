@@ -9,6 +9,7 @@
     ],
     "contacts": [
         "contact_id",
+        "lead_id",
         "pii_id",
         "profile"
     ],
