@@ -2,9 +2,16 @@
 
 .env
 
+# DATA
 data/*.parquet
 data/*.csv
+!data/.gitkeep
 
+# MODELS
+models/*.joblib
+models/*.json
+!models/.gitkeep   
+# gitkeep keeps empty folder
 
 
 # Byte-compiled / optimized / DLL files
